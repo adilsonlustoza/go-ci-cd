@@ -12,6 +12,6 @@ func TestSoma(t *testing.T) {
 	}
 
 	if sub != 5 {
-		t.Errorf("Não deve passar da sub é inválido: Resultado %d. Esperado: %d", sub, 5)
+		t.Errorf("Não deve passar de jeito nenhum: Resultado %d. Esperado: %d", sub, 5)
 	}
 }
