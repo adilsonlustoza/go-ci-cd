@@ -5,7 +5,6 @@ import "testing"
 func TestSoma(t *testing.T) {
 
 	soma := soma(15, 15)
-
 	sub := sub(20, 16)
 
 	if soma != 30 {
