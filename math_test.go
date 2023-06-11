@@ -12,6 +12,6 @@ func TestCalculo(t *testing.T) {
 	}
 
 	if sub != 5 {
-		t.Errorf("Tá passando, está é uma nova feature %d. Esperado: %d", sub, 5)
+		t.Errorf("Tá passando, está é uma nova feature %d.  Resultado esperado : %d", sub, 5)
 	}
 }
