@@ -1,0 +1,4 @@
+mode: set
+go-ci/math.go:5.13,8.2 2 0
+go-ci/math.go:10.29,12.2 1 1
+go-ci/math.go:14.28,16.2 1 1
