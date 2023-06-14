@@ -1,1 +1,1 @@
-# go-ci-cd
+# go-ci-cd com sonar gate
